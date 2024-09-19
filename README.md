@@ -6,7 +6,7 @@ Synology Chat client library in Golang
 
 Needs of connect using go code with [Synology Chat Server](https://www.synology.com/es-es/dsm/feature/chat).
 
-It's follow [Synology Chat integration](https://kb.synology.com/en-in/DSM/help/Chat/chat_integration?version=7).
+Follows [Synology Chat integration](https://kb.synology.com/en-in/DSM/help/Chat/chat_integration?version=7).
 
 ## Installs
 

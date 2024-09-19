@@ -3,7 +3,7 @@ package synochat_test
 import (
 	"testing"
 
-	"github.com/0ghny/go-synochat"
+	"github.com/citizenadam/go-synochat"
 	"github.com/stretchr/testify/require"
 )
 

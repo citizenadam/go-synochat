@@ -2,8 +2,7 @@ package synochat_test
 
 import (
 	"testing"
-
-	"github.com/0ghny/go-synochat"
+	
 	"github.com/stretchr/testify/assert"
 )
 

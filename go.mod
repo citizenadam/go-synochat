@@ -3,7 +3,7 @@ module github.com/citizenadam/go-synochat
 go 1.23.1
 
 require (
-	github.com/0ghny/go-synochat v0.0.0-20220728145953-cb211edd5457
+	github.com/citizenadam/go-synochat
 	github.com/sirupsen/logrus v1.9.3
 	github.com/stretchr/testify v1.9.0
 )

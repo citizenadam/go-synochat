@@ -8,6 +8,7 @@ require (
 )
 
 require (
+	github.com/0ghny/go-synochat v0.0.0-20220728145953-cb211edd5457 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8 // indirect
